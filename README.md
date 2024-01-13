@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi!!! 👋
 
-<!--
-**MariaAguiar/MariaAguiar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Margarida Aguiar! I am a 42 student with some XP in SAP consultancy.
+I am enthusiastic about web projects and computer graphics in general.
+Some things I'm currently doing:
+- 🔭 Finishing my 42 Common Core
+- 🌱 Learning C, C++ and React (+ Design!)
+- 👯 Looking for some Graphic Projects to help out (and learn from!)
+- ✨ And complete some portfolio ideas I have in store!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to reach out at [[LinkedIn](https://www.linkedin.com/in/margaridaaguiar/)]!
+Thanks!
